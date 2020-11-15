@@ -3,5 +3,5 @@ package main
 import "github.com/bruesky/godev/hello"
 
 func main() {
-	hello.Test()
+	hello.WebStart()
 }
